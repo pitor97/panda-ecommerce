@@ -1,0 +1,170 @@
+.button{
+    text-size-adjust: 80%;
+   
+    background-image: linear-gradient(60deg, rgb(243, 211, 211), rgb(235, 235, 224));
+    padding: 20px 30px;
+    border: 5px, solid;
+    border-radius: 1px;
+    font-weight: 700;
+    text-decoration-color: rgb(255, 248, 252);
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+}
+
+.high{
+    text-overflow: inherit;
+    color:rgb(224, 4, 114);
+}
+
+
+#sm{
+    color: rgb(26, 26, 206);
+    font-size: 100px;
+    transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+    text-shadow: royalblue;
+   text-decoration-style: wavy;
+   text-transform: capitalize;
+}
+.half-width{
+    width: 40%;
+    font-size: 30px;
+    padding-top: 40px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 45px;
+    float: left;
+    text-align: justify;
+    
+
+   
+   
+    
+   
+}
+
+    
+
+p{
+    font-size: 20px;
+}
+#uzzol{
+    padding-top: 45px;
+    margin-top: 90px;
+    margin-left: 50px;
+}
+.half-width img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+section{
+    height: 600px;
+    padding-bottom: 100px;
+    margin-bottom: 10px;
+    
+}
+#second{
+    background-color: #fcf7f7;
+}
+.ub{
+    color: hsl(0, 91%, 46%);
+
+}
+#juri{
+    color: rgb(250, 114, 227);
+}
+.about{
+  
+    
+    padding-top: 100px;
+    margin-top: 20px;
+
+}
+
+
+
+h1.work{
+    color: brown;
+    text-shadow: brown;
+    text-shadow: tomato;
+    text-align: center;
+   
+}
+.pictur{
+background-color: cornsilk;
+    margin-top: 0%;
+    height: 800px;
+    
+}
+h2{
+    text-align: center;
+    font-size: 100px;
+  
+   text-overflow: clip;
+    
+}
+.rong{
+    color:brown;
+}
+.head{
+    height: 30%;
+    font-size: 700px;
+ 
+
+}
+ 
+.chobi{
+    width: 450px;
+    height: 250px;
+    padding: 12px;
+    
+}
+#uzzo{
+    padding-top: 50px;
+}
+div.frist{
+   
+    width: 30%;
+ border: 1px solid red;
+   border-radius: 15px;
+   
+    float: left;
+ margin: 10px;
+ margin-top: 20px;
+ text-align: justify;
+ padding-top: 25px;
+
+ 
+
+}
+.inquiry{
+    border: 1px solid #322fff;
+    background-color: #0048cd;
+    border-radius: 20px;
+    margin-top: 250px;
+    width: 30%;
+   margin-left: 1100px;
+   height: 10%;
+   
+ 
+}
+#kaj{
+    color: oldlace;
+    padding: 20px;
+}
+#box{ text-size-adjust: 80%;
+   
+    background-image: linear-gradient(60deg, rgb(243, 211, 211), rgb(235, 235, 224));
+    padding: 20px 30px;
+    border: 5px, solid;
+    border-radius: 1px;
+    font-weight: 700;
+    text-decoration-color: ghostwhite;
+    border-radius: 20px;
+    margin-left: 400px;
+  margin-bottom: 100px;
+
+}
